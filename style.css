@@ -2,14 +2,23 @@
     background-color: red;
 }
 
+#center{
+  text-align: center;
+}
+
 th {
-    background-color: rgba(55, 55, 204, 0.397);
+    background-color: #008001;
+}
+
+#clock{ 
+  height: 35px;
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
   }
   
   th, td {

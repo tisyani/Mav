@@ -11,13 +11,14 @@
 }
 
 th {
-    background-color: rgba(55, 55, 204, 0.397);
+    background-color: #3c6382;
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
   }
   
   th, td {
@@ -26,10 +27,10 @@ table {
   }
   
   tr:nth-child(even) {
-    background-color: #008001;
+    background-color: #3c6382;
   }
   tr:nth-child(odd) {
-    background-color: #5dbe89;
+    background-color: #497d93;
   }
 
 .paratlan_sor {
